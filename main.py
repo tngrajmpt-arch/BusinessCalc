@@ -61,4 +61,4 @@ class CalculatorApp(MDApp):
                 self.solution.text += button_text
 
 if __name__ == "__main__":
-    CalculatorApp().run() 
+    CalculatorApp().run()
